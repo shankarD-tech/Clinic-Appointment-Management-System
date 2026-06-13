@@ -98,4 +98,3 @@ To provide an efficient database solution for managing clinic appointments, pati
 
 Shankar D
 
-This format is ideal for your GitHub README, mini-project documentation, or portfolio presentation.
